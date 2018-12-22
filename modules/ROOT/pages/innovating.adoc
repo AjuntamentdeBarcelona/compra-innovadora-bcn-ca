@@ -129,9 +129,8 @@ Aquesta guia és:
 * *Pel sector privat, empreses i entitats proveïdores de l'Ajuntament presents i futures.*
 * *Per la ciutadania ja que la transparència en tota la contractació pública estratègica i la innovació seran el fil conductor de totes les iniciatives.*
 
-The guide invites all those who read it to view innovation as an essential element that is inseparable from and strengthens sustainable procurement, as is set out in the Mayoral Decree on sustainable public procurement (S1/D/2017-1271 of 24 April).
-Article one of this Decree establishes the desire to boost social, environmental and innovation measures.
-The decree establishes a guarantee for the labour, social, and citizen's rights of the people who execute the public contract and of the recipients of said contract, and boosts actions for a circular economy and improving the economic activity of small and medium enterprises.
+La guia orienta a qui la llegeix a considerar la innovació com a element fonamental indissociable i potenciador de les compres sostenibles, tal com es recull en la Llei de Contractes del sector públic i en el Decret d'Alcaldia de contractació pública sostenible (S1/D/2017-1271 de 24 d'abril), en el qual es estableix, en el seu primer article, la voluntat d'impulsar mesures socials, ambientals i d'innovació.
+El decret promou la garantia dels drets laborals, socials i ciutadans de les persones que executin el contracte públic i de les persones destinatàries del mateix, i impulsa accions per a l'economia circular i la millora de l'activitat econòmica de les petites i mitjanes empreses.
 
 .Article 6.- La innovació
 [TIP]
