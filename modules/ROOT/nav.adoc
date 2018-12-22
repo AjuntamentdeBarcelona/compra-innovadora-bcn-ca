@@ -1,0 +1,20 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Add here AsciiDoc list items with cross references to all the pages you want
+// to see listed in the navigation menu for this document. See
+// https://docs.antora.org/antora/navigation/list-structures/ for more details
+// on the syntax of this file.
+.$$MAIN
+* xref:innovating.adoc[Innovar des de la compra a l´Ajuntament de Barcelona]
+* xref:strategy.adoc[L'estratègia de compra per la innovació]
+* xref:principles.adoc[Com fer-ho realitat. Principis i procediments]
+* xref:case-studies.adoc[Casos Pràctics]
+* xref:procedures.adoc[Els procediments]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Glossari de les guies]
+* xref:index.adoc[Autors i altres informacions del document]
+* link:{attachmentsdir}/barcelona_innovative_procurement_{revnumber}.{lang}.pdf[Descarregar PDF]

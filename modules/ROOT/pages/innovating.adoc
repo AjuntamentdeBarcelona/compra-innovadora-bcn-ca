@@ -1,0 +1,146 @@
+= Innovar des de la compra a l´Ajuntament de Barcelona
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== Antecedents
+
+Des d'Europa (Directiva 2014/24/UE) es promou la contractació pública estratègica, la qual associa el concepte d'eficiència en la despesa pública amb la promoció d'objectius socials comuns europeus fixats en la comunicació de la Comissió Europea, Europa 2020, una estratègia per a un creixement sostenible, intel•ligent i Integrador.
+
+En aquesta línia, el darrer mes d'abril, l'Ajuntament de Barcelona va aprovar un decret d'alcaldia de contractació pública sostenible (S1/D/2017-1271, 24 d'abril), que manifestava que “L'Ajuntament de Barcelona impulsa la contractació pública sostenible que integra, en la causa i l'objecte del contracte públic municipal, mesures socials, ambientals, ètiques i d'innovació, tot garantint els drets laborals, socials i ciutadans de les persones que executin el contracte públic i de les persones destinatàries o usuàries del mateix, que impulsin una economia local circular i sostenible i que promoguin l'activitat econòmica de les mitjanes, petites i microempreses locals i, singularment, de les empreses socials”.
+
+En aquell decret s'aprovaven també les guies de contractació pública social i contractació pública ambiental que han ser la pauta orientadora de la contractació pública sostenible de l'Ajuntament de Barcelona.
+
+Aquesta guia de contractació pública innovadora vol complementar les pautes ja aprovades introduint la innovació lligada al desenvolupament de la sostenibilitat econòmica, social i ambiental, i com a element multiplicador que ajuda a crear ocupació i creixement econòmic, potencia els valors socials i ambientals a la vegada que dóna suport a les empreses innovadores que resolen els reptes de la ciutadania.
+
+Aquesta guia s'ha debatut internament dins l'organització municipal i amb posterior diàleg amb entitats ciutadanes representatives de les activitats econòmiques, socials i veïnals, al si de la “Taula de Contractació Pública” constituïda per Resolució de l'Alcaldia de 21 d'octubre de 2016 com a espai de diàleg ciutadà en contractació pública.
+
+== Què és la contractació pública per a la innovació (CPI)?
+
+La contractació pública per a la innovació és una nova manera de contractar i de dialogar amb el mercat per respondre a les necessitats que no troben solucions en el processos ordinaris.
+
+Es tracta d'utilitzar els diners públics per comprar el que necessitem, procurant fer la despesa amb estratègia, per assolir els nostres objectius de millorar i satisfer les necessitats de la ciutadania potenciant la innovació i la sostenibilitat.
+
+Aquest nou enfocament de les compres públiques es postula com una eina fonamental de l'Ajuntament per a obtenir solucions que s'ajustin molt més a les demandes reals de la societat i a ajudar a les empreses a ser més competitives.
+Volem estimular la creació de nous mercats locals, nous productes, nous mètodes de producció o noves maneres d'organització o subministrament i prestació de serveis.
+
+I com ho farem? La CPI comença en la pràctica amb una definició oberta de reptes i necessitats a solucionar i ofereix al mercat la possibilitat d'explicar com resoldre el problema, ja sigui amb solucions existents o no, però que disposin d'una bona relació qualitat-preu i tinguin en compte el cicle de vida en el càlcul i determinació dels costos.
+Aquesta pràctica posiciona a l'Ajuntament amb un rol més enllà del comprador i esdevé soci en la resolució del repte identificat.
+
+Hem de passar d'una compra pública molt detallada en els plecs tècnics i sovint adjudicada amb criteris del millor preu, a una compra que treballa per definició de reptes i solucions sostenibles innovadores, sovint amb la implicació de multiplicitat d'actors.
+Aquest nou plantejament permet l'entrada d'idees, de solucions innovadores que aporten eficiència.
+Un exemple senzill seria passar de comprar faroles a comprar llum o passar de comprar bolígrafs a hores d'escriptura.
+
+L'Ajuntament doncs es posiciona com a tractor d'innovació del mercat i banc de proves de les seves compres a l'adquirir els resultats de la investigació i no pas subvencionar pilots que sovint troben dificultats per escalar-ne l'impacte.
+
+Elements com el risc, l'eficiència de costos, la col·laboració entre agents i assegurar que es comparteixen els beneficis són elements claus en una CPI.
+
+.Principals beneficis que aporta la CPI:
+[TIP]
+====
+* *PER LA CIUTADANIA.*
+Millora dels serveis públics mitjançant la incorporació de béns o serveis innovadors que serveixen millor i de manera més eficient a les necessitats dels ciutadans i les ciutadanes. +
+
+* *PER LA INDUSTRIA.*
+Fomenta les empreses i PiMES innovadores que promouen els valors de l'Ajuntament en matèria social, ambiental i tecnològic, impulsant el seu desenvolupament i internacionalització ja que aprofiten el mercat públic local com a primera clientela de referència. +
+
+* *PER L'ADMINISTRACIÓ.*
+Promou un canvi cultural dins la pròpia administració
+acostant-la a pràctiques més innovadores, i assolint eficiència econòmica i tècnica.
+====
+
+== La compra pública amb visió estratègica
+
+L'estratègia Europa 2020 per a un creixement intel·ligent, sostenible i integrador aposta per una economia basada en el coneixement i la innovació, amb un ús més eficaç dels recursos i que sigui més competitiva, amb alt nivell d'ocupació i buscant cohesió social i territorial.
+La directiva 2014/24 assenyala en el seu considerant segon que la contractació pública té un paper clau en l'estratègia Europa 2020.
+
+TIP: *Sota la iniciativa Europea Horitzó 2020 s'habiliten fons perquè el sector públic i privat assoleixi els objectius de creixement sostenible i d'innovació. En el període 2014-2020 la inversió prevista per la UE és de 70.200 milions d'euros.*
+
+I això és així perquè la despesa de les administracions representa el 20% del PIB europeu, fet que converteix els governs en un agent econòmic rellevant amb gran capacitat d'influència al mercat.
+
+De fet, la Unió Europea promou activament la compra pública per a la innovació (CPI) com a instrument per fer política pública.
+A més d'oferir fons per finançar-la, estableix nous procediments que donen suport a la innovació i convida als sectors compradors a treballar diferentment amb una visió més estratègica.
+
+I és que la CPI pretén salvar el buit existent entre les necessitats socials i ciutadanes, els processos administratius i el mercat.
+
+Fins ara els governs han subvencionat a la indústria i a l'àmbit de la investigació per al desenvolupament de noves tecnologies i les seves aplicacions, amb projectes que sovint no passen de la fase pilot i provoquen un cert desencís en la indústria que perd la confiança en el sector públic com a motor d'innovació.
+
+Amb el nou enfocament de la compra pública es vol acostar la innovació al mercat i fer que el sector públic esdevingui client i beneficiari de solucions sostenibles i innovadores més ajustades a les seves necessitats.
+
+Però no parlem sols de teoria, sinó que existeixen bons exemples en sectors com les infraestructures i la sanitat, on es comença a disposar de resultats objectius de l'aplicació d'aquesta nova manera de comprar a on la capacitat de demanda del sector públic està essent l'instrument essencial per desenvolupar nous mercats i satisfer les necessitats socials cada cop més exigents i complexes.
+
+== Quin paper tindrà Barcelona?
+
+El 2014 Barcelona va ser nomenada la Capital Europea de la Innovació.
+En aquest mateix any, la Unió Europea va aprovar les noves Directives de Contractació Pública.
+Des de Europa se'ns demana que comprem solucions innovadores per resoldre reptes que, sense les darreres tecnologies i investigacions, no trobarien una resposta eficaç als nostres problemes socials i ambientals del segle XXI.
+
+TIP: *La recerca i la innovació, incloses la innovació ecològica i la innovació social, es troben entre els principals motors del creixement futur i ocupen un lloc central de l'estratègia Europa.*
+
+Tanmateix la visió de la innovació de la Comissió Europea és entesa com un procés de desenvolupament lineal que parteix de la idea, passant per diferents estadis de maduració recolzats en centres tecnològics fins a arribar a mercat.
+
+Altres veus s'alcen a Europa amb visions més amplies observant que el nou enfocament de la compra pública amb visió estratègica de les administracions genera innovació per si mateixa.
+La innovació no es troba necessàriament com a resultat final d'un procés d'investigació des de la idea sinó que sorgeix de manera més amplia des del conjunt d'actors que traccionats per la resolució dels reptes plantejats des de l'administració (també anomenada demanda sofisticada) generen innovació.
+És tota la societat la que crea innovació en el procés de cercar solucions als reptes plantejats.
+Barcelona veu la innovació com un fi en si mateixa i alhora com un potenciador de solucions més socials i més ambientals.
+
+El consistori vol aprofitar els seus coneixements i els existents al mercat per ajudar a resoldre els reptes de ciutat amb noves solucions.
+Això requereix noves habilitats per les persones encarregades de gestionar el pressupost públic, noves habilitats en el personal tècnic municipal, nous mecanismes legals de compra, noves metodologies més àgils en el desenvolupament de solucions per el ciutadà.
+I també noves maneres d'explicar al mercat i la ciutadania quins són els reptes de la ciutat i la seva ciutadania, facilitant la recerca i desenvolupament compartit i col•laboratiu de solucions.
+
+Cal posar la innovació al servei de les persones i del be comú.
+El sector públic es converteix en un promotor de l'empresa innovadora, innovant ell mateix en la seva manera de relacionar-se amb el mercat i en els seus procediments de compra.
+
+El pes del criteri preu imperant fins ara, ha de passar a un segon lloc, i mitjançant la programació, comunicació al mercat de les futures licitacions, esdeveniments, i diàlegs amb el mercat, s'han de dissenyar fórmules que permetin premiar la inversió en R + D + I per part de les PIMES quan estigui destinada a la creació de creixement i ocupació de qualitat, o be a protegir els nostres valors socials i ambientals.
+Generarem així una confiança del mercat amb l'Ajuntament generador de valor i comprador, creant una massa crítica local al sector públic i privat que aprèn a comprar, vendre i sobretot col•laborar d'una manera diferent, promovent solucions innovadores pel be comú.
+
+TIP: Barcelona aposta per la innovació en un sentit ampli i ha adoptat utilitzar el seu potencial de compra per estimular la innovació dirigida a resoldre els reptes de la vida a la ciutat i a amplificar l'impacte de les seves polítiques socials i ambientals.
+
+== Podem promoure innovació a les compres regulars?
+
+La resposta és si, introduint en els contractes la la innovació i modificant el procés de compra possibilitat de variants o mesures que fomentin (planificació, consultes prèvies, ...).
+
+[TIP]
+====
+* Barcelona proposa una definició àmplia de promoció de la innovació en la seva estratègia.
+
+* Entén la compra pública per a la innovació (CPI) com la compra pública que aprofita les solucions innovadores (productes, tecnologies, processos) que sorgeixen en el procés de compra per fomentar un major impacte en el creixement sostenible e integrador de la societat.
+
+* Barcelona també promou amb els mateixos objectius la inclusió de la innovació en les seves compres regulars.
+====
+
+.Ja tenim experiència
+[TIP]
+====
+El BCN Open Challenge va fer que el propi Ajuntament es converteixi client i comprador de solucions innovadores, per primera vegada tancant el cercle dels ‘urban labs' i sumant el finançament i el vector de compromís de contractació pública en el programa de resolució de reptes.
+Però el BCN Open Challenge també va néixer amb la voluntat d'arribar a qualsevol persona, professional, empresa o col•lectiu que disposés d'una idea innovadora aplicable, independentment de la seva naturalesa o experiència, assegurant així oportunitats per a tothom amb capacitat d'innovar.
+
+És per aquest motiu que la naturalesa de les empreses seleccionades és molt diversa, i és un punt que ens dóna especial satisfacció, ja que tenim com a guanyadores petites i mitjanes empreses ja constituïdes, però també noves empreses creades expressament per a presentar-se a aquesta crida, una unió temporal d'empreses (UTE) i fins i tot un centre tecnològic, el que demostra la capacitat d'aquest programa per fomentar noves formes empresarials innovadores i la col•laboració entre elles.
+
+_http://www.barcelonactiva.cat/barcelonactiva/es/novedades-y-prensa/novetats/2014/05/09/noticia112879.jsp_
+====
+
+== Per a qui és aquesta guia?
+
+Aquesta guia és:
+
+* *Per al conjunt de persones que treballen a l'Ajuntament de Barcelona, responsables d'àrea i òrgans municipals, persones encarregades de compra pública i personal tècnic municipals.*
+* *Pel sector privat, empreses i entitats proveïdores de l'Ajuntament presents i futures.*
+* *Per la ciutadania ja que la transparència en tota la contractació pública estratègica i la innovació seran el fil conductor de totes les iniciatives.*
+
+The guide invites all those who read it to view innovation as an essential element that is inseparable from and strengthens sustainable procurement, as is set out in the Mayoral Decree on sustainable public procurement (S1/D/2017-1271 of 24 April).
+Article one of this Decree establishes the desire to boost social, environmental and innovation measures.
+The decree establishes a guarantee for the labour, social, and citizen's rights of the people who execute the public contract and of the recipients of said contract, and boosts actions for a circular economy and improving the economic activity of small and medium enterprises.
+
+.Article 6.- La innovació
+[TIP]
+====
+6.1. La directiva 24/2014, de contractació pública, defineix en l'article 2.1.22 la innovació com “la introducció d'un producte, servei o procés nous o significativament millorats, que inclou, encara que no es limita a ells, els processos de producció, edificació o construcció, un nou mètode de comercialització o un nou mètode d'organització de pràctiques empresarials, l'organització del lloc de treball o les relacions exteriors, entre d'altres, amb l'objectiu d'ajudar a resoldre desafiaments dela societat o a donar suport a l'Estratègia Europa 2020 per a un creixement intel·ligent, sostenible i integrador...”.
+
+6.2. L'Ajuntament de Barcelona impulsarà processos de compra pública d'innovació als efectes de promoure la investigació, el desenvolupament d'idees i noves tecnologies que permetin la realització de les seves activitats a favor de la ciutadania quan aquestes no estiguin disponibles en el mercat.
+
+En l'adquisició d'obres, béns i serveis s'incorporaran, de forma generalitzada, mesures de potenciació de la innovació a partir de la fixació de prescripcions tècniques de caràcter funcional, criteris d'adjudicació que potenciïn les millores articulades com a propostes d'innovació o qualsevol altra mesura que afavoreixi una innovació lligada al desenvolupament de la sostenibilitat econòmica, social i ambiental.
+
+_Decret d'Alcaldia de Contractació Pública Sostenible (S1/D/2017-1271 del 24 d'abril)_
+====

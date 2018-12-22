@@ -1,0 +1,259 @@
+= Com fer-ho realitat. Principis i procediments
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== Com comencem?
+
+La contractació pública per a la innovació no és un nou procediment de contractació, és una nova manera de contractar de manera col•laborativa per respondre a necessitats que no troben solució en el mercat.
+
+Aquesta manera de contractar amb una visió estratègica ens porta a una planificació més acurada de la nostra acció de compra.
+És una nova cultura.
+Hem de reflexionar amb una visió holística de tot el procés des de la detecció de la necessitat, la consulta al mercat, la preparació administrativa i l'execució, però també en el seguiment i avaluació dels resultats.
+Hem de verificar en quin grau acomplim finalment les nostres necessitats i podem escalar les solucions tal i com havíem planificat.
+
+.Algunes accions a endegar
+[TIP]
+====
+* Formació
+* Planificació, col·laboració i confiança
+* Creació de xarxes
+* Provisió de finançament
+* Anàlisi de riscos
+* .... I “Més formació” ....
+====
+
+Cada compra haurà de ser analitzada cas per cas.
+Quina necessitat hem de cobrir?
+
+Existeix ja la solució en el mercat o cal inventar-la? Què passaria si existint, encara no està comercialitzada? El nostre proveïdor pot esdevenir el nostre soci?
+
+Per això hem d'estructurar les nostres compres en 4 pilars.
+
+[cols=",,,",]
+|===
+|Pilar I  |Pilar II |Pilar III |Pilar IV
+|Detectar les necessitats
+|Involucrar als diferents actors
+|Iniciar la compra
+|Seguir i avaluar
+|Identificació del repte i de la compra per a la innovació amb un impacte clar i escalable.
+|Identificació dels actors, preparació de reunions de
+treball, avís previ de licitació, consultes al Mercat i
+assegurar la igualtat de tracte.
+|Elecció del procediment, redacció dels plecs, establiment dels criteris de selecció, gestió del risc, processos de finançament...
+
+Valorar compres conjuntes
+|Seguiment de l'execució del contracte (el veritable canvi)
+
+Avaluar la CPI i resum de lliçons apreses
+|===
+
+Vegem-ho pas a pas ...
+
+== PILAR I: Detectar les necessitats
+
+Totes les persones ens trobem davant de multituds de necessitats i problemes per resoldre.
+Hauríem de definir amb amplitud de mires els nostres objectius a assolir mitjançant el contracte públic: detecteu els vostres objectius, les vostres necessitats i els vostres reptes.
+Cal aplicar un sistema i anar construint un catàleg i inventari de les mateixes.
+Ens hem de plantejar un cop formulades les necessitats si estan orientades amb els objectius de la ciutat i la ciutadania, si poden ser solucionades per processos senzills o hem d'aplicar mètodes complexes.
+En definitiva hem de construir una categorització i ordre de prioritats.
+
+*COMENÇA AVIAT I DECIDEIX SI ESTÀS DAVANT D'UNA CPI*
+
+El fet de voler promoure la innovació no ha de portar-nos a crear falses necessitats.
+La detecció d'autèntiques necessitats serà el fruit de sessions conjuntes de treball amb aquells actors que treballen amb el bé o el servei a comprar, amb el personal tècnic, les persones usuàries, els proveïdors.
+Aquestes sessions es plantegen com una llista de desitjos a assolir.
+Per això abans de fer el plec, cal esbrinar si la solució existeix o no, i si necessita o no del desenvolupament de proves pilot.
+
+*Exemple:*
+
+En el marc de projectes CPI finançats sota el programa FEDER RIS3cat, el repte que s'està plantejant l'Ajuntament és la recerca de solucions en paviments que redueixin l'efecte d'illa de calor, la generació de soroll i la reducció de contaminació atmosfèrica.
+
+De les sessions internes de treball s´ha entès que els paviments urbans haurien de contribuir a que la ciutat fos més confortable per qui l'habita, assolint un caràcter més natural amb característiques semblants a la pell o a la roba, i ser resistent a les sol•licitacions externes, permetent la transpirabilitat, el drenatge i el manteniment d'una temperatura confortable.
+La pell té terminacions nervioses (sensors) que permeten sentir fred o calor, o detectar patologies o danys amb un canvi de color i d'altres (erupcions, talls, etc.).
+Aquestes han estat les bases per iniciar una consulta al mercat i determinar si existeixen solucions que donin resposta a aquesta necessitat.
+
+*Necessitats: la clau*
+
+Una avaluació de necessitats ha de tenir en compte tant les necessitats actuals com les futures, i examinar la capacitat de l'organització per assumir les potencials solucions.
+Una avaluació de les necessitats genera una millor base de consulta oberta al mercat, ja que proporciona dades essencials per les entitats proveïdores i identifica qualsevol tipus de llacuna
+
+== PILAR II: Involucrar als diferents actors
+
+Un cop hem formulat el nostre repte és fonamental comptar amb l'ajuda de professionals i un servei d'assessories amb coneixement actualitzat del mercat, i assegurar-se una imatge complerta dels darrers avanços.
+Per a això s'ha de consultar una àmplia varietat de fonts i treballar amb equips multidisciplinars.
+Podem recórrer a altres gerències o àrees de la pròpia organització, a congressos locals o internacionals, universitats, agències d'innovació i/o xarxes europees, associacions empresarials, sindicals, socials, veïnals, etc.
+Hem de decidir quina informació és necessària recollir i compartir i a quins operadors del mercat ens hem de dirigir
+
+*CONSULTES AL MERCAT*
+
+En el procés d'estructuració de la nostra compra també podem formalitzar una consulta al mercat.
+El llançament de la consulta preliminar del mercat ens permetrà conèixer l'oferta existent i alhora ens permet implicar anticipadament al mercat.
+
+Aquestes consultes no són vinculants per a l'administració i no deuen en cap cas privilegiar a uns actors enfront d'altres, de manera que tota la informació durant la consulta ha de ser pública, s'han de protegir els drets de propietat industrial i intel•lectual de les entitats proveïdores, i s'ha d'informar dels resultats.
+Aquest diàleg pot iniciar-se amb un anunci previ de licitació.
+Les passes essencials a seguir són:
+
+* Decideixi quina informació es necessari recollir i compartir, i a quins operadors de mercat cal dirigir-se.
+* Esculli el millor format per la consulta i prepari els recursos materials i humans necessaris.
+* Desenvolupi la consulta conservant un arxiu del desenvolupament i assegurant la igualtat de tracte.
+
+*AVALUACIÓ DE LA SOSTENIBILITAT I LA INNOVACIÓ EN ELS RESULTATS DE LA CONSULTA AL MERCAT*
+
+L'Ajuntament està elaborant una metodologia de suport per facilitar l'avaluació de les idees i solucions que ens arribin de la consulta al mercat.
+La metodologia que es realitza es general per a qualsevol idea o solució i permetrà prioritzar-les segons el grau d'innovació i sostenibilitat que aportin.
+
+El mètode te dues fases, en una primera s'avalua la innovació que aporta l´idea en si mateixa i atenent a les circumstàncies de l'entorn, de la entitat proponent i l'alineament que la idea té amb els objectius de l'Ajuntament de Barcelona.
+
+En una segona fase cal analitzar la sostenibilitat de la idea a partir d'analitzar com de real, viable i social és la seva implementació.
+
+.Cas SPEA EINDHOVEN - La paraula clau és col·laboració
+TIP: L'ajuntament d'Eindhoven aposta per la construcció sostenible amb un enfocament més integrat i holístic, un enfocament que faci lògic que les diferents parts involucrades s'esforcin per la qualitat a llarg termini i satisfacin les necessitats de totes les parts interessades.
+A més, les inversions en innovació i qualitat requereixen un termini més llarg per obtenir un rendiment suficient de la inversió gràcies a les economies d'escala i la cooperació.
+L'horitzó del projecte és per tant 2045.
+La metodologia de “Pas Natural” s'aplica per millorar la sostenibilitat dels edificis
+_(http://www.eindhoven.nl/artikelen/Duurzaamheid-volgens-The-Natural-Step.htm)_
+
+== PILAR III: Iniciar la compra
+
+*ELECCIÓ DEL PROCEDIMENT: ELS FACTORS A CONSIDERAR*
+
+El primer pas per escollir el procediment és formular-se les preguntes, necessitaré d'una R + D + I? Hi ha la solució però no a escala comercial? Disposem de prou informació per redactar les prescripcions tècniques? Es recomana un ús flexible dels procediments de contractació i una decisió cas per cas.
+
+De fet podem solucionar alguns dels nostres reptes adquirint innovació mitjançant la introducció de *clàusules o mesures d'innovació en les nostres compres regulars*.
+
+Si entenem que cal contractar exclusivament serveis d'R+D per desenvolupar una solució que no està disponible al mercat farem ús la *Compra Pública Pre-comercial (CPP)* que quedarà subjecta als principis generals de la compra pública.
+
+Tanmateix si el mercat ja està preparat per donar resposta a les necessitats plantejades en un termini raonable de temps, la *Compra Pública de Tecnologia Innovadora (CPTI)*, mitjançant els procediments habituals oberts o restringits sense negociació poden esdevenir adients.
+Però hem de poder preveure el recurs del procediment de licitació amb negociació o el de diàleg competitiu que ens poden aportar solucions finals comercials innovadores nouvingudes al mercat.
+
+El *diàleg competitiu* ha demostrat ser útil en aquells casos en què els poders adjudicadors no estan en condicions de definir els mitjans ideals per satisfer les seves necessitats o avaluar les solucions tècniques, financeres o jurídiques que pot oferir el mercat.
+Aquesta situació es pot presentar en qualsevol contracte, però especialment, en els projectes innovadors, en l'execució de grans projectes d'infraestructures de transport integrat o en les xarxes o els projectes informàtics de grans dimensions que requereixin finançament complex i estructurat.
+
+A més dels procediments ordinaris amb o sense diàleg i negociació, les directives del 2014 ens ofereixen un procediment nou i creat específic per a la promoció de la innovació des de la demanda, *l'associació per a la innovació* un procediment que integra la possibilitat de recerca i contractació del primer pilot.
+
+En el capítol procediments d'aquesta guia presentem el detall de les diferents alternatives pel que fa als procediments i la seva elecció.
+
+[TIP]
+====
+* Col·laboració
+* Compromís
+* Confiança
+====
+
+*CONSIDERAR I APRENDRE A GESTIONAR ELS RISCOS*
+
+La bona gestió de projectes públics sempre ha d'anar acompanyada d'un exercici d'identificació i anàlisi de riscos.
+Es realitzarà durant la fase de planificació del projecte i es repetirà durant les diferents fases de la compra pública.
+Per a això s'ha d'implicar a un ampli grup d'actors d'interessats tant per a la definició de les necessitats de compra com per a l'anàlisi dels riscos.
+
+Les noves regles sobre contractació conjunta pretenen facilitar la cooperació entre autoritats contractants, el que pot promoure el compartir riscos i beneficis para abordar projectes innovadors i agrupar la demanda.
+I es que l'aversió al risc pot frenar els esforços que s'escometen en la promoció de la CPI des de l'Ajuntament.
+
+Molts dels riscos, encara que no tots, poden gestionar-se amb una adequada elecció del procediment de contractació, una estratègia de propietat intel•lectual i unes clàusules contractuals adequades.
+Per reduir els riscos associats al desenvolupament de CPI o d'una compra pública precomercial (CPP), s'ha de desenvolupar una estratègia que s'anticipi a aquests desafiaments i permeti una adequada planificació i gestió.
+Pot consultar-se a altres organitzacions o persones expertes que ja hagin desenvolupat aquest tipus de procediments.
+La Plataforma de la contractació d'innovació proporciona un fòrum per a aquesta finalitat (veure més a _https://www.innovation-procurement.org/_)
+
+Un cop identificats els riscos hi ha diverses maneres de gestionar-los:
+
+*Prendre mesures que incideixin en la probabilitat que ocorri.*
+Per exemple, una mesura de reduir els riscos en l'entitat contractant mateixa és incloure un pla de contingència per a persones que vagin a gestionar el projecte com fer una bona planificació i formar-se en CPI.
+Per reduir els riscos tecnològics, cal deixar temps per poder provar la solució.
+Per prevenir el quedar-se amb una única entitat proveïdora, la solució serà fer una demanda conjunta per augmentar el volum d'adquisició, i resulti així més atractiva per al mercat amb més parts interessades.
+
+*Repartiment o transferència del risc entre les parts.*
+És aconsellable posar el risc en la part que millor pot controlar-ho.
+Els riscos també poden ser dividits en elements que es puguin dividir entre les parts.
+
+*Evitar accions que augmentin els riscos.*
+En acabar el projecte, es farà un seguiment dels riscos per a comprovar la veracitat de la probabilitat i impacte estimat.
+D'aquí s'extreuen les lliçons apreses que seran utilitzades en futurs projectes.
+
+.Exemple ciutat de Delmond- formigó fotocatalític
+TIP: Durant la Consulta al mercat es van avaluar els riscos tècnics en relació amb els estudis d’investigació publicats i les dades dels fabricants.
+Es van organitzar visites a les fàbriques i es van comparar els diferents enfocaments dels productes.
+Es va dur a terme una anàlisi de la sostenibilitat basant-se en l’estimació d’una vida útil d’almenys 50 anys.
+Es van remetre els resultats a l’equip de planificació perquè determinés quines tècniques eren les més apropiades per al projecte.
+I es va demanar l’aprovació política per al conjunt del treball tenint en compte els costos addicionals estimats associats al ús de formigó fotocatalític.
+
+*ELS DRETS DE PROPIETAT INTEL·LECTUAL*
+
+La CPI implica invertir en fer realitat noves idees, tant per part de l'autoritat contractant com per la de l'empresa proveïdora del producte o servei.
+Totes voldran maximitzar la seva inversió, i això es fa habitualment en forma de drets de propietat intel•lectual i industrial (DPI).
+L'Ajuntament ha de desenvolupar una estratègia sobre DPI que tingui en compte els usos previsibles del producte o servei que està comprant, amb efectes d'obtenir els beneficis de la innovació més rellevants per a ella.
+
+Per exemple, si es desenvolupa un nou disseny de contenidors de reciclatge dins d'un contracte de gestió de residus, què és millor per a l'administració? comprar-lo o pagar una llicència d'ús ? I en el cas dels drets sobre el disseny dels vehicles per a la recollida d'aquests contenidors? En respondre a aquestes preguntes cal considerar qüestions com la capacitat futura de l'administració per canviar d'empresa proveïdora, o fins a quin punt es podria llicenciar aquest disseny a altre públic usuari potencial del servei.
+
+En alguns casos per assolir aquests objectius serà suficient compartir informació sense una transferència efectiva de drets de propietat intel•lectual i/o industrial.
+
+*FINANÇAMENT*
+
+Hem de disposar de finançament per la compra inicial i fer les previsions per l'escalat de les solució si la trobem satisfactòria.
+
+*COMPRES CONJUNTES*
+
+Aquest nou model de relació contractual ens permet el foment de procediments de contractació més amplis i dinàmics permetent-nos plantejar fins i tot processos de compres conjuntes i de demanda agregada amb d'altres administracions.
+S'haurà d'analitzar cas per cas si les necessitats detectades són adequades per a una CPI conjunta, i si té o no sentit establir un acord marc de manera que altres administracions puguin utilitzar els resultats finals.
+
+*LA REDACCIÓ DELS PLECS DE CONDICIONS. MESURES PER LA INNOVACIÓ*
+
+En la redacció dels plecs de licitació per l'adquisició d'obres, béns i serveis s'incorporaran, de forma generalitzada, mesures de potenciació de la innovació a partir de la fixació de prescripcions tècniques de caràcter funcional, amb criteris d'adjudicació que potenciïn les millores articulades com a propostes d'innovació o qualsevol altra mesura que afavoreixi una innovació lligada al desenvolupament de la sostenibilitat econòmica, social i ambiental.
+
+Com ho podem fer?:
+
+* *Establint prescripcions tècniques* que vagin en el camí d'assolir els objectius definits.
+Si les configurem com a obligatòries voldrà dir que el mercat les pot respondre sense més preparatius.
+Però pot ser una prescripció tècnica que restringeixi el mercat perquè és d'impossible materialització en el temps d'un període de presentació de proposicions o, alternativament, podem donar temps perquè el mercat es prepari: una vegada més destaquem la programació en la contractació pública.
+També podem indicar prescripcions tècniques “opcionals” o que representin millores voluntàries, que no fan perillar el resultat del concurs.
+O podem traslladar els nostres objectius funcionals com a prescripcions tècniques que no detallen com ha de ser concretament el que volem, sinó com és el que volem.
+
+* *Establint criteris de solvència tècnica* que indiquin els mitjans tècnics i els processos de qualitat en els circuits internes de les empreses que apuntin que seran capaces d'abordar ofertes amb elements d'innovació.
+
+* *Fixant criteris d'adjudicació* que valorin les solucions innovadores, les noves idees que donin resposta als requeriments de les prescripcions tècniques que ara traslladarem al propi criteri d'adjudicació: és el moment de puntuar i destacar les empreses que fan l'esforç de superar les seves ofertes rutinàries i demostren que han estudiat els nostres reptes i aporten solucions: tecnològiques, organitzatives, procedimentals o combinades totes o algunes d'aquestes però que suposen un compromís de l'empresa licitadora a satisfer aquests resultats....
+
+* *Condicionant el preu a la incorporació de la innovació.*
+Incorporar els resultats innovadors pot ser un incentiu econòmic en fase d'execució del contracte de forma que es pagarà una part del preu en funció de l'assoliment d'uns resultats que comprometen la incorporació d'uns objectius funcionals innovadors.
+
+* *Potenciant la subcontractació especialitzada* per parts de l'objecte del contracte que requereixen la participació d'empreses emprenedores especialitzades.
+
+Si el que necessitem no és tan sols una evolució renovadora d'un contracte ordinari sinó que es creï una autèntica aliança amb empreses per desenvolupar una nova prestació, es tracta ara de constituir una “associació per a la innovació”.
+El projecte es formalitza com una col•laboració públic-privada per dissenyar, produir i adquirir nous serveis, béns o activitats inexistents en el mercat.
+Si es pretén abordar, és millor que primerament es contacti amb la direcció de coordinació de contractació que ajudaran a dissenyar el projecte.
+
+La valoració de les ofertes ha de ser objectiva, motivada i raonable.
+Per tant, hem de dissenyar els criteris de valoració, quan es tracti de criteris d'adjudicació, i els hem d'explicar clarament identificant els resultats requerits de la forma més entenedora i concreta possible.
+
+La innovació és una aposta pel desenvolupament sostenible en ajut de l'eficiència en la prestació dels serveis públics a la ciutadania.
+Però no poden ser les ocurrències imaginatives impossibles de fer.
+Cal estirar del mercat i orientar-lo cap a les nostres necessitats, no domesticar les nostres necessitats per les limitacions o objectius de rendiments de beneficis a curt termini de determinades empreses.
+
+== PILAR IV: Seguir i avaluar
+
+*L'EXECUCIÓ DEL CONTRACTE*
+
+La fase d'execució del contracte esdevé essencial.
+En ella es posaran de manifest tots els procediments previs realitzats i la bona tasca preparatòria.
+
+Ara be hem d'entendre fermament que en aquests procediments la contractació no acaba amb l'adjudicació, sinó que haurem d'establir un sistema de monitorització i control de l'execució per part de l'empresa contractista, i gestionar la col•laboració de l'Ajuntament amb el contractista per la correcció del desenvolupament del contracte.
+
+*EFICIÈNCIA DEL CONTRACTE*
+
+Un indicador útil per avaluar resultats és la eficiència del contracte, hem de considerar en els nostres contractes el quocient de rendiment entre les prestacions obtingudes en relació al preu que paguem i si aquests s'està complint o no.
+
+També s'efectuaran avaluacions periòdiques de resultats
+en les parts que es consideressin substancials, entre d'altres:
+
+• Si la innovació satisfà la necessitat formulada al principi, respectant els criteris socials i ambientals establerts
+• Quin és el valor afegit de la innovació en seguretat, funcionalitat i costos, i en eficiència social
+• És la innovació adequada per a la seva implementació a gran escala?
+
+En períodes més llarg i establerts, es convenient que l'Ajuntament avaluí l'aplicació de l'estratègia de política de CPI.
+Cal verificar si els objectius es segueixen i aconsegueixen.
+Per exemple, s'avalua si hi ha prou espai per a innovacions en els contractes i com s'estan eliminant els obstacles a la innovació.
+
+*ESCALAT DE LA SOLUCIÓ*
+
+Es important un cop aplicada la solució fer una valoració objectiva dels resultats obtinguts i la viabilitat de l'escalat de la solució i l'increment de l'impacte previst, així com la seva sostenibilitat.

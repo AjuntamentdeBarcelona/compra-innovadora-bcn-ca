@@ -1,0 +1,79 @@
+= Els procediments
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== Els procediments regulars motors de la compra per la innovació
+
+Dins de la compra regular, la normativa de Contractació Pública de 2014 i la nova Llei de Contractes del Sector Públic, ofereixen múltiples mitjans «propicis a la innovació».
+
+Destaca la possibilitat de dur a terme consultes preliminars del mercat. 
+La capacitat de tenir en compte consideracions ambientals i socials en diferents fases del procés de contractació i l'ús de càlculs del cost del cicle de vida compten amb una base jurídica més sòlida.
+
+Es poden promoure solucions innovadores a les quals podem donar més punts a la llum dels beneficis econòmics i de sostenibilitat que impliquen a llarg termini. 
+De la mateixa manera, l'aplicació d'especificacions funcionals o basades en els resultats donen més marge per a les propostes innovadores.
+
+A més, algunes modificacions dels procediments de selecció i els requisits de documentació tenen per objectiu vetllar per la millora de l'accés de les pimes (moltes de les quals són molt innovadores) als procediments de contractació pública.
+
+Les noves normes de contractació conjunta transfronterera permetran que entitats compradores de diversos Estats membres realitzin compres conjuntes.
+L'agregació de la demanda de diversos Estats membres pot encoratjar el repartiment de riscos i beneficis dels projectes innovadors i l'agrupament de la demanda.
+I, finalment, el que potser és el més important: l'aplicació de les noves normes europees ens ofereix l'oportunitat d'avaluar la contractació pública des d'un punt de vista estratègic i d'esbrinar la millor manera d'aconseguir la innovació i altres objectius.
+
+A tot això sumem el major suport dels sistemes electrònics que comporten els avenços cap a una contractació electrònica per a fomentar la innovació en la contractació pública.
+
+== Les directives europees
+
+Més enllà dels mitjans a emprar en els procediments tradicionals, a l'última reforma de les Directives europees, s'han revisat els procediments ja existents i s'ha introduït alguns nous per tal de donar suport a la innovació des de la demanda, com veiem a continuació.
+
+En l'àmbit de les directives, hi ha procediments especialment rellevants per a la CPI:
+
+*Diàleg competitiu*
+
+Aquest procediment s'ha simplificat a les noves normes.
+Normalment s'utilitza en projectes grans i complexes en els que no es poden definir anticipadament las prescripcions tècniques.
+
+Per exemple quan els poders adjudicadors no estan en condicions de definir els mitjans ideals per satisfer les seves necessitats o avaluar les solucions que pot oferir el mercat. 
+Quan les necessitats de l'autoritat contractant no es puguin satisfer sense adaptar les solucions actualment disponibles, o bé les necessitats impliquen disseny o solucions innovadores. 
+També quan el contracte no pugui adjudicar-se sense prèvia negociació per causa de la complexitat, l'estructura legal o financera, o per causa dels riscos associats a aquestes.
+
+Les empreses licitadores admeses al diàleg, presentaran un document descriptiu i pot haver-hi una o diverses rondes de diàleg. 
+Les idees generals es van concretant en aquesta fase de diàleg. 
+Quan l'autoritat tanqui el diàleg podran presentar una oferta basada en la seva pròpia solució per a les necessitats que l'autoritat contractant ha definit. 
+Al Procediment de «Diàleg competitiu”, qualsevol operador econòmic pot presentar una sol•licitud de participació, però només podran participar en el Diàleg a els operadors convidats.
+
+*Procediment de licitació amb negociació*
+
+L'objectiu en aquest cas és la contractació d'obres, serveis o subministraments que incloguin elements d'adaptació, disseny, innovació, o altres característiques que facin inadequada l'adjudicació del contracte sense prèvia negociació. 
+Al contrari que en el diàleg competitiu vist anteriorment, aquí és requisit previ que l'autoritat contractant especifiqui des d'un primer moment les característiques dels béns o serveis a contractar.
+
+Es pot utilitzar en les mateixes circumstàncies, anteriorment descrites, que el diàleg competitiu, per exemple quan és necessària adaptació, disseny o innovació, quan el contracte no pugui ser adjudicat sense prèvia negociació a causa de riscos o complexitat, quan les prescripcions tècniques no poden ser definides amb la precisió suficient, o quan només s'hagin presentat ofertes irregulars o inacceptables en un procediment previ. 
+Ho han introduït les directives del 2014, i substitueix l'anterior procediment negociat amb publicitat.
+
+En el «procediment de licitació amb negociació», qualsevol operador econòmic pot presentar una sol·licitud de participació, però només els operadors econòmics convidats després de l'avaluació de la informació proporcionada podran presentar una oferta inicial, que serà la base de les negociacions ulteriors.
+
+*S'ha creat un nou procediment: L'associació per a la innovació*
+
+Es per als casos en què es requereixi una solució innovadora que encara no està disponible al mercat. 
+El poder adjudicador decideix establir una associació per a la innovació amb un o diversos actors que efectuen per separat activitats de recerca i desenvolupament, amb la finalitat de negociar una nova solució innovadora durant el procediment de licitació.
+
+Finalment, en casos i circumstàncies específiques, els poders adjudicadors podran adjudicar contractes públics mitjançant *un procediment negociat sense publicació prèvia d'un anunci de licitació.*
+
+== Altres
+
+Fora del àmbit de les directives, i ha un procediment que i pot conduir a una compra pública d'innovació. 
+Es tracta de la contractació precomercial (CPP) i es la menys utilitzada fins a la data però amb una gran potencial. 
+Si necessitem contractar serveis d'R + D, incloent les fases de creació de prototips o les primeres proves de producció, aquest és el camí.
+
+La CPP pot incloure la contractació de prototips limitats i/o el desenvolupament de proves de producte, però no inclou la compra de grans quantitats de solucions finals en fase comercial, i tampoc ha de constituir ajuda d'Estat. 
+Per a això el benefici que es derivi dels serveis d'R + D contractats no serà exclusivament per a l'ús que l'autoritat contractant.
+
+La CPP, tot i fora de normatives, ha de ser executada d'una manera imparcial, oberta, transparent i competitiva de manera que els serveis d'R + d es contractin a preu de mercat.
+
+.Thalea II
+TIP: THALEA II és el primer CPI que segueix un CPP en Health-ICT per a Unitats de Cures Intensives. 
+Participa entre d'altres, la corporació sanitària Parc Taulí de Sabadell.
+Desplegarà solucions de teledetecció i teleassistència per mitigar els impactes negatius de l'envelliment de la societat i de la mà d'obra. 
+Fent balanç de l'experiència adquirida a través del CPP de THALEA, a través d'aquest CPI s'adquirirà i desplegarà una tecnologia innovadora prometedora que ajudarà a salvar més vides i augmentar la qualitat de vida dels i de les pacients. 
+Més informació:
+ _http://www.thalea-pcp.eu/_

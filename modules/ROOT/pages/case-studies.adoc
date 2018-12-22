@@ -1,0 +1,179 @@
+= Casos Pràctics
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== El projecte Europeu Internacional SPEA
+
+image::spea.jpeg[SPEA logo,width=624,height=245]
+Una primera experiència de l'Ajuntament de Barcelona liderant un projecte CPI la trobem en l'any 2012 en el projecte europeu SPEA
+projectfootnote:[_http://www.speaproject.eu/rcs_gene/extra/SPEA_brochure.pdf_], Smart Procurement European Alliance.
+
+*EL REPTE*
+
+El repte del projecte era fomentar i potenciar la contractació pública en l'àmbit de l'eficiència energètica en els edificis municipals de les ciutats sòcies, promovent solucions innovadores dels serveis públics per millorar la qualitat i eficiència d'aquests, i fomentant oportunitats a les PIME per participar en la seva contractació pública.
+
+*ELS OBJECTIUS DEL PROJECTE COMPRENIEN:*
+
+Desenvolupar la metodologia per a la participació de tots els actors clau en el desenvolupament d'un procés de contractació pública innovadora. 
+Fer una anàlisi en termes de tecnologies i requeriments reals, seguit d'una anàlisi de les necessitats, així com les activitats encaminades a augmentar la participació de les PIME en el procés acabant en la compra de la solució innovadora.
+
+* Intercanvi de coneixements entre els organismes públics que participen en la compra de solucions innovadores en l'àmbit de l'eficiència energètica i les energies renovables.
+
+* Identificació dels grups d'entitats compradores i proveïdores.
+
+* Creació de capacitats sobre la demanda i l'oferta (entitats compradores i empreses), així com crear grups d'entitats compradores dedicades a preparar l'adquisició de solucions innovadores.
+
+* Disseny i execució d'un procés d'adquisició d'aquestes noves solucions, millorant la capacitat dels òrgans de contractació (públics), així com de les PIME en relació a la contractació d'innovacions. 
+Fomentar la cooperació amb altres actors essencials per a la implementació d'una contractació innovadora, a nivell local i europeu.
+
+* Formular recomanacions a la UE en relació amb les barreres per a l'organització d'un procés d'adquisició conjunta / coordinada. 
+Donar a conèixer els resultats de contractació entre els actors encarregats de formular polítiques de mercat.
+
+* Crear una massa crítica d'entitats compradores que superi la fragmentació de la demanda pública europea, a través de l'adquisició conjunta i coordinada de solucions d'eficiència energètica, basada en la implementació de les experiències de les tres ciutats que coordinen el projecte.
+
+.The cities
+TIP: The project consists of a consortium of three cities: Barcelona (project leader), Birmingham and Eindhoven.
+
+*LA SOLUCIÓ A L'AJUNTAMENT DE BARCELONA*
+
+Es va optar per un projecte innovador per a la monitorització energètica de les biblioteques, i anàlisi de dades, aplicat a un total de deu biblioteques que actuarien com a pilots.
+
+Es va realitzar una consulta al mercat, van unir forces i van treballar conjuntament la Direcció de Serveis Generals, la Direcció de Logística i Manteniment, l'Agència d'energia, i Barcelona Activa. 
+Això va enriquir el procés en ampliar la visió de les entitats compradores.
+
+Es va fer un PIN (preliminary information notice) en el qual es van presentar unes cent empreses amb el qual es va preparar un “banc de solucions d'eficiència energètica” i es va elaborar un llistat de solucions innovadores susceptibles de poder ser utilitzades.
+
+Després d'una fase d'exploració dels requisits tècnics i financers del projecte es va llançar un concurs de projectes en el qual les empreses podrien utilitzar el banc de solucions, i un jurat internacional va valorar les propostes i va triar tres finalistes, amb qui es va obrir un procés de negociació en format de taules rodones de discussió. 
+La mesa de contractació va proposar a l'entitat guanyadora i es va adjudicar el contracte al juny de 2015 per a un projecte de quatre anys. 
+L'any 2016 s'ha implementat la solució en deu biblioteques, i un cop avaluada la idoneïtat de la proposta, en un futur pròxim es pretén escalar la solució a altres biblioteques de la ciutat.
+
+Aquest projecte està sent base pel repte que s'està plantejant actualment l'Ajuntament en el marc de projectes CPI finançats sota el programa FEDER RIS3cat.
+En aquest repte l'Ajuntament està considerant el manteniment de tots els edificis municipals no només en termes d'eficiència d'un sol edifici sinó amb visió global de tot el conjunt dels mateixos.
+
+== La ciutat de Gant – Serveis de neteja
+
+image::image2.jpeg[Ghent sight,width=612,height=215]
+
+*EL REPTE*
+
+El Departament de neteja i serveis de l'Ajuntament de Gant (Bèlgica) té les competències de la neteja de les 340 instal•lacions municipals, guarderies, edificis de policia i de serveis de prevenció i extinció d'incendis, col•legis i edificis administratius. 
+L'Ajuntament de Gant desitjava, en el nou contracte, augmentar la capacitat del mercat per a la prestació de serveis de neteges ambientalment sostenibles i socialment responsables. 
+També volia introduir productes de neteja pro-biòtics, en principi amb menor impacte en el medi ambient i en la salut humana. 
+Degut a la manca d'estudis independents que establissin l'eficàcia i beneficis d'aquests productes, es va considerar necessari un període de prova.
+
+*CONSULTA DE MERCAT*
+
+Es va desenvolupar una consulta del mercat per identificar les empreses interessades a participar en aquesta prova. 
+L'objectiu de la prova era comparar productes de neteja probiòtics amb productes tradicionals.
+
+L'Ajuntament va procurar involucrar al major nombre possible d'empreses. 
+Això era important com a factor de contrast, doncs l'existència de diferències substancials entre els resultats de diferents participants significaria que era necessària investigació complementària. 
+Es va incorporar a una empresa externa de control de qualitat per garantir l'objectivitat.
+
+Quatre empreses van participar en la prova pilot al llarg de dos mesos. 
+Es van desenvolupar proves de laboratori per mesurar els nivells de fongs i bacteris respecte dels mesuraments de partida en cada ubicació. 
+Es va implicar activament a les persones usuàries dels productes de neteja.
+
+En general, el personal professional de la neteja va quedar satisfet amb els productes. 
+En termes generals es va concloure que els productes eren tan efectius com els tradicionals. 
+Algunes de les persones usuàries van apreciar efectes beneficiosos a la pell. 
+També es van rebre comentaris positius sobre olor i facilitat d'utilització dels productes.
+
+*CONTRACTACIÓ*
+
+Es va publicar la convocatòria al març de 2013 mitjançant procediment obert. 
+Es van presentar cinc empreses licitadores. 
+Es va dividir en contracte en tres lots, que van ser adjudicats a dues empreses de neteja diferents. 
+Les empreses licitadores van respondre a les necessitats de l'autoritat contractant i algunes d'elles fins i tot van anar més enllà oferint productes innovadors amb certificació independent de sostenibilitat. 
+El contracte es va adjudicar a l'oferta econòmicament més avantatjosa, amb un 10% dels punts assignats al rendiment mediambiental.
+
+El contracte incloïa també un requisit relatiu a les empreses d'economia social establint en el plec que algunes activitats com ara l'escombrat dels patis escolars i la neteja de mala herba havien de desenvolupar-se per aquest tipus d'empreses.
+
+Els riscos lligats al projecte eren reals i significatius, ja que l'èxit dels productes depenia de molts i variats factors, com ara la ubicació, el tipus de brutícia, els materials i la manera en què el personal professional de la neteja apliquessin els productes. 
+Els productes de neteja probiòtics tenen una manera d'utilització diferent als productes tradicionals i requereixen que els i les professionals adoptin nous hàbits de treball. 
+El contracte promou l'ús de productes probiòtics, però l'empresa adjudicatària és lliure de triar els seus productes, el que deixa espai suficient a la prestació perquè proposi altres solucions innovadores que entrin dins dels objectius de l'Ajuntament.
+
+|===
+|*“La compra d'innovació va ser un mitjà per millorar la qualitat de vida de les persones implicades en la prestació dels nostres serveis, alhora que aconseguíem un major valor afegit. El sector públic pot també donar suport a les empreses innovadores facilitant-los una plataforma per als seus productes.”* -
+_Tamara Bruning, Ajuntament de Gant_
+|===
+
+== La ciutat de Detmold - Formigó per reduir la contaminació de l'aire
+
+
+image::image3.jpeg[Detmold photo,width=623,height=247]
+
+*EL REPTE*
+
+La ciutat de Detmold i la seva concorreguda estació central d'autobusos és utilitzada per 2,3 milions de passatgers i passatgeres cada any. 
+Amb la finalitat de millorar el flux de trànsit, uns 800 autobusos passen a través d'ella en els dies laborables, i l'accessibilitat, l'estació és utilitzada per un gran nombre d'infants en edat escolar. 
+El departament de obres i immobles de la Ciutat va identificar per dur a terme la renovació el potencial de reducció de la contaminació de l'aire a la zona mitjançant l'aplicació de formigó fotocatalític a les voreres i superfícies dels paviments.
+
+*DESENVOLUPAMENT DEL PROJECTE*
+
+Després d'un examen a fons es va formar grup transversal de planificació, incloent responsables de la planificació de trànsit, tecnòlegs i tecnòlogues de formigó, enginyers i enginyeres geològics, la universitat, professorat, auditoria, agents per a la discapacitat i representants polítics. 
+El grup de planificació també va mantenir converses amb la companyia d'autobusos propietat de la ciutat la Stadtverkehr Detmold GmbH (SVD).
+
+La Fundació Alemanya Federal de Medi Ambient (DBU) va donar suport al projecte a través del Departament d'Enginyeria Civil de la Universitat d'East Westfàlia-Lippe. 
+La Universitat va investigar el paviment amb tecnologia fotocatalítica durant un any i també ho va fer a la prova científica de seguiment. 
+Es va rebre també ajuda addicional de l'associació de transport de Westfàlia-Lippe i del Fons de Desenvolupament Urbà de Renània del Nord-Westfàlia. 
+La cooperació en el projecte va funcionar bé, tot i que el temps total requerit es més llarg que un projecte tradicional.
+
+La planificació del projecte es va iniciar al gener de 2011 i les licitacions es van posar en marxa el març de 2012. 
+El contracte es va adjudicar en 2012 i es va finalitzar en agost de 2013.
+
+*CONSULTA AL MERCAT*
+
+A diverses empreses productores se les va demanar que facilitessin i enviessin fulletons i informació del seu formigó fotocatalític amb capacitat descontaminant. 
+Se les va convidar a una ronda per separat amb el grup del projecte per discutir les seves solucions i potencials aplicacions per satisfer les necessitats de Detmold. 
+L'àmplia gamma de condicions i materials que afecten al formigó requereix un enfocament cas per cas per garantir l'aplicació més adequada de la tecnologia. 
+Es van necessitar al voltant de tres mesos per obtenir la informació, les opinions expertes i la comunicació sobre la instal•lació del producte innovador.
+L'entrada de la Universitat d'enginyeria va ser particularment valuosa durant aquesta fase. 
+Els riscos tècnics es van avaluar amb referència al publicat a informes d'investigació i les especificacions de l'empresa fabricant. 
+Es van realitzar visites a les instal•lacions de producció i es va fer una comparació de l´enfocament de les diferents empreses productores. 
+Una anàlisi de sostenibilitat es va dur a terme d'acord amb la vida útil esperada d'almenys cinquanta anys. 
+Els resultats van ser presentats al grup de planificació per veure quines eren les tècniques més adequades per al projecte. 
+Es va donar l'aprovació política, tenint en compte dels costos addicionals projectats per a l'ús de formigó fotocatalític.
+
+*PROCEDIMENT DE COMPRA*
+
+Es va utilitzar un procediment obert i es van rebre sis ofertes d'empreses contractistes. 
+Els requisits del plec de condicions es van formular en termes neutres perquè diverses entitats productores poguessin subministrar el material -els serveis auditors interns de Detmold estaven molt involucrats per assegurar la transparència del procés. 
+Sobre la base de la informació rebuda de la consulta al mercat es va especificar als documents de licitació un contingut de TiO2 d'entre 3% i 5%. 
+Hi van haver preguntes de seguiment a qui van presentar oferta per veure si realment podien complir els criteris. 
+Algunes empreses van presentar solucions variants amb formigó convencional, aquestes van ser 3,6% més barates de mitjana. 
+Es va establir una superfície de prova per determinar la millor manera de treballar amb el material “in situ. 
+Les mostres van ser avaluades com a part del procés de licitació i d'adjudicació del contracte.
+
+*RESULTAT I ALTRES APLICACIONS*
+
+L'empresa adjudicatària va oferir un contingut de TiO2 al 5% en el seu formigó.
+
+“Sobre la base de la mitjana diària de 800 autobusos al estació, s'espera una reducció de les emissions anuals d'òxids de nitrogen per fins a un 40%, “va dir Thomas Lammering, l´adjunt del Cap del departament de Construcció i edificació. 
+El cost addicional d'utilitzar el formigó fotocatalític era relativament baix, ascendint a 90.000€ dins d'un cost total del projecte de 2,8 milions d ‘€. 
+El disseny de la estació contempla l'accessibilitat per a les persones amb mobilitat reduïda com cadires de rodes o cotxets d'infants i també té sistemes de guia per discapacitats visuals.
+
+Al participar en el procés de materials foto-catalítics les empreses involucrades també es van beneficiar. 
+Van augmentar la seva competència i competitivitat en l'aplicació de materials innovadors en la construcció, així com el seu coneixement de la ciència dels materials i l'enginyeria de processos. 
+Un nombre creixent d'empreses proveïdores de formigó a Europa i a nivell internacional són capaces de subministrament de formigó fotocatalític per satisfer les necessitats de projectes de construcció públics i privats.
+
+== Generalitat de Catalunya. Paviments sostenibles
+
+image::image4.jpeg[Road,width=620,height=227]
+
+*EL REPTE*
+
+La Direcció General d'Infraestructures de Mobilitat de la Generalitat de Catalunya vol fer més competitius els sectors implicats en el disseny, la producció, la construcció i en el manteniment dels ferms de carreteres a Catalunya, mitjançant la introducció de nous mètodes i procediments que els facin més sostenibles a nivell econòmic i ambiental, i que aportin nous valors afegits a la seva funcionalitat bàsica de seguretat viària.
+
+*CONSULTA AL MERCAT*
+
+Per tal d'arribar a una definició complerta de la posterior licitació, la Generalitat va informar prèviament sobre el procés de licitació i de les seves necessitats, per tal d'aconseguir la més àmplia participació de les parts interessades, conèixer les característiques tècniques i la qualitat de les solucions proposades pel mercat i finalment permetre als actors interessats formular comentaris i suggeriments.
+
+La DG d'Infraestructures de Mobilitat de la Generalitat de Catalunya també va posar de manifest que la consulta no era vinculant a efectes contractuals.
+
+*CONTRACTACIÓ*
+
+En aquests moments de redacció de la guia, la DG d'Infraestructures es troba en fase d'elaboració dels plecs que han de regir la licitació.

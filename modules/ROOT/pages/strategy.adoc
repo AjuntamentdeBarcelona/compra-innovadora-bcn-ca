@@ -1,0 +1,114 @@
+= L'estratègia de compra per la innovació
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== L'estratègia de compra per la innovació a l'Ajuntament de Barcelona
+
+L'Ajuntament vol participar dels avantatges de la compra per la innovació i s'ha fixat com estratègia la introducció d'un seguit d'accions per fer que les seves compres fomentin la innovació amb la finalitat de garantir i incrementar el benestar de les persones que viuen en el territori.
+
+Si volem promoure un creixement sostenible i integrador a Barcelona, hem d'aprendre a utilitzar tot el potencial que ens ofereix la normativa, tot atenent que en un breu temps i tindrem novetats, en particular, les novetats en matèria de CPI que introdueix la directiva 2014/24.
+
+Estem per tant en un canvi de paradigma i de la cultura de la organització davant de les compres.
+Se'ns obren les portes a una nova manera de contractar amb clars avantatges que volem incorporar el més aviat possible.
+
+L'Ajuntament ha aprovat normativa com el decret de contractació pública sostenible (S1/D/2017-1271 24/04) i les guies que el desenvolupen per impulsar les mesures socials, ètiques, ambientals i d'innovació i suposa un punt d'inflexió cap a aquesta nova visió de les compres.
+
+.La importància de la consulta al mercat
+TIP: La ciutat de Detmold, volia renovar l'estació central d'autobusos, va identificar el potencial de reduir la contaminació mitjançant l'ús d'un formigó fotocatalític, gràcies a la informació obtinguda en la consulta del mercat, els plecs van especificar que el formigó hauria de tenir entre un 3% i un 5% de TiO2 per a una reducció anual en les emissions d'òxid de nitrogen, en comptes d'una llista detallada d'ensums.
+
+Altres accions que te previstes dur a terme l'Ajuntament són:
+
+*Planificació de les compres.* Convé tenir present que la CPI és un nou instrument per arribar a assolir els nostres objectius de ciutat.
+Es per això que s'ha de fer ús de la CPI als casos en què no existeix la solució que necessitem (o no a gran escala) i quan disposarem d'un pressupost de compra important a aplicar en el mig o llarg termini que garanteixi l'escalabilitat de les solucions.
+S'haurà d'analitzar cas per cas quines àrees s'han d'implicar en la CPI i quina està més ben situada en l'organització per liderar el procés.
+
+Aquest nou model de relació contractual ens permet el foment de procediments de contractació i execució de contractes més amplis i dinàmics permetent-nos plantejar fins i tot processos de compres i execució conjuntes i de demanda agregada amb d'altres administracions.
+S'haurà d'analitzar cas per cas si les necessitats detectades són adequades per a una CPI conjunta, i si té o no sentit establir un acord marc de manera que altres administracions puguin utilitzar els resultats finals.
+
+.Treball en xarxa
+[TIP]
+====
+* Integració d'equips multidisciplinaris.
+* Treball en xarxa amb la indústria i les universitats.
+* Xarxes de col·laboració i de repartiment d'experiències.
+* Formació de persones formadores.
+====
+
+*Determinar les àrees del consistori més adequades per a iniciar una CPI.*
+El fi és començar en el camí de les compres en les àrees que poden tenir més impacte o són més susceptibles d'incorporar innovació, per després compartir els aprenentatges amb la resta d'àrees i regularitzar l'ús de la CPI.
+Algunes àrees prioritzades són les tic, l'economia circular o la salut.
+
+.Selecció d'àrees prioritàries
+[TIP]
+====
+* Contractes marc
+* Càlcul de rendiment
+* La tecnologia com a aliada
+* Nous mecanismes de finançament
+* Assessorament en totes les fases
+====
+
+*Dialogar amb el mercat i teixit empresarial.*
+El marc legal actual recull la possibilitat d'iniciar un diàleg entre els poders adjudicadors i el mercat, previ a l'inici de l'expedient de contractació.
+L'Ajuntament habilitarà els canals adients, principalment digitals per a establir el diàleg.
+L'objectiu és conèixer i fer prospecció de les solucions que ofereix el mercat per cobrir les necessitats objecte del contracte abans de la publicació del plec definitiu.
+Això permet una millor i més profunda comprensió de les necessitats de l'Administració, la promoció i incorporació de les darreres innovacions existents en el mercat i una major col•laboració entre les parts.
+
+.Gestió estratègica a mig i llarg plaç
+[TIP]
+====
+* Estratègies de Compres Diferenciades
+* Equips especialitzats
+* Anàlisi del cost del cicle de vida
+* Gestió de riscos
+* Avaluació de resultats
+* Control de qualitat
+* Drets de propietat intel·lectual
+====
+
+*Introduir mesures d'innovació en cada contracte.*
+La lògica darrere d'això és que la innovació no és una temàtica estàtica o sobre la que es pot planificar la seva aparició.
+Per tant el consistori es planteja treballar orientat a la innovació en els seus contractes, realitzar consultes de mercat i augmentar el seu diàleg amb la indústria.
+Es tracta d'encoratjar a investigadors, investigadores i empreses a reflexionar sobre els reptes de la ciutat, el benestar de les persones i desenvolupar solucions innovadores, fins i tot a plantejar compres centralitzades abans que s'hagi llançat un procediment de contractació.
+
+*La tecnologia com aliada.*
+L'evolució de les TIC i l'ús general d'internet estan transformant pràcticament tots els sectors de la societat i de la nostra economia.
+La informació i les dades s'han convertit en un dels béns més valuosos i preuats, i configuren el que anomenem economia del coneixement o economia digital.
+
+Les ciutats com Barcelona, amb iniciatives com el Pla Barcelona Ciutat Digital 2017-2020, afronten la necessitat de transformar les seves maneres de fer i cercar noves estratègies basades en la tecnologia i la innovació que permetin aprofitar l'impuls i desenvolupament d'aquesta nova economia i que comportin alhora grans beneficis socials i un creixement econòmic més equitatiu i sostenible.
+
+Les mesures que caldrà observar i que impulsaran el nou model de contractació sostenible per a la innovació s'hauran d'estructurar en eixos d'actuació com l'ètica de les dades o la sobirania tecnològica basada en programari lliure, dades obertes i metodologies agile que es desenvoluparan en detall en la futura guia de compra de tecnologia de l'Ajuntament, actualment en redacció.
+
+*Habilitar fons de finançament.* L'Ajuntament compte amb diversos fons per al finançament dels seus projectes CPI.
+Un dels més importants és el propi pressupost de compres ordinàries, en els que incorporant les mesures per la innovació esdevé un dels eixos tractors més importants.
+
+L'Ajuntament disposa també de fons estructurals (FEDER) per donar suport a aquest procés i les vol aplicar per donar suport a les TIC, l'economia circular i la salut.
+
+També es pot trobar fons de finançament en els provinents per concurs de la UE, el Banc Mundial i d'altres per a PIMES.
+Des de diferents organismes internacionals s'està facilitant assessorament, suport financer, organitzant esdeveniments i convocant premis per ajudar les autoritats contractants a desenvolupar CPI de manera oberta i no discriminatòria facilitant l'accés de les petites i mitjanes empreses.
+
+*Transmetre formació i coneixement.*
+Cada equip de compra pública haurà d'identificar quines compres són objecte del procediment CPI i per tant necessitaran de noves tècniques i coneixements per detectar la innovació.
+Aquesta innovació es pot trobar de diferents maneres, afegint noves tecnologies a les nostres adquisicions, també sol•licitant bens que siguin la composició de producte i servei o be introduint noves maneres de fabricació d'un mateix producte, en definitiva seran necessàries noves habilitats en aquests equips per orientar els nous processos de compra.
+
+*Seleccionar periòdicament iniciatives model i fer divulgació.*
+Hi ha un delicat equilibri entre el deure d'assegurar-se que el mercat coneix exactament quins són els requeriments públics en una compra i alhora deixar espai suficient per a formes diferents i noves de respondre a aquests requeriments.
+S'actuarà amb iniciatives per a les que l'Ajuntament creu que pot tenir un paper demostratiu, amb prescripcions tècniques funcionals basades en el rendiment, o permetent variants, dues maneres interessants de permetre certa flexibilitat a les empreses licitadores a l'hora de proposar solucions.
+
+image::NewModelForRelations_ca.svg[Infografia del nou model de procés de compra, width=2126, align="center"]
+
+== Les claus de l'èxit
+
+De l'estudi de benchmark a nivell europeu realitzat per l'Ajuntament se'n conclou que la promoció de la CPI ha d'anar idealment acompanyada de mesures de planificació i organització que faciliten l'èxit de la seva implementació.
+Aquestes recomanacions es poden resumir en 4M's:
+
+.Les claus de l'èxit: les 4 M´s
+[TIP]
+====
+* Mandat polític al més alt nivell, amb planificació de les compres a llarg termini i amb equips professionals i estables.
+* Mentalitat: Formació dels equips, diàleg obert i flexible amb el Mercat, cultura favorable promocionada transversalment
+* Mitjans i Recursos humans professionals, experts en gestió de risc amb pràctica en l'avaluació de projectes, formació i mecanisme de comunicació de bones practiques.
+* Medició Objectius obligatoris i quantificables, vinculants i monitoritzats.
+====
